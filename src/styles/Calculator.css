@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    margin: 100px;
+}
+.input-box{
+    border-radius: 2.5rem;
+    width: 19rem;
+    /* margin: 20vh auto; */
+    display: inline-block;
+    padding: 50px;
+    box-shadow: 15px 20px 70px -10px;
+    
+}
+.pie{
+    display: flex;
+    flex-direction: row;
+    width: auto;;
+
+}
+.pie-text{
+    position: relative;
+    left: 15%;
+    top: 10%;
+}
+.pie-chart{
+    position: relative;
+    left: 30%;
+    top: 25%;
+    height: 300px;
+}
